@@ -1,0 +1,24 @@
+<svg width="339" height="605" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="imagebot_12">
+   <stop stop-color="#ffffff" id="imagebot_26" offset="0"/>
+   <stop stop-color="#ffffff" stop-opacity="0" id="imagebot_25" offset="1"/>
+  </linearGradient>
+  <linearGradient id="imagebot_21">
+   <stop stop-color="#ff0000" id="imagebot_23" offset="0"/>
+   <stop stop-color="#ff0000" stop-opacity="0" id="imagebot_22" offset="1"/>
+  </linearGradient>
+  <radialGradient xlink:href="#imagebot_21" id="imagebot_4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.70154501,0.56699993,-0.54029012,-0.57968542,1388.0473,318.88442)" cx="674.89496" cy="443.61932" fx="674.89496" fy="443.61932" r="96.04665"/>
+  <radialGradient r="91.14413" fy="478.14502" fx="337.20795" cy="478.14502" cx="337.20795" gradientTransform="matrix(0.0756514 2.16482 -3.86676 0.135131 1980.12 -774.766)" gradientUnits="userSpaceOnUse" id="imagebot_7" xlink:href="#imagebot_12"/>
+ </defs>
+ <metadata id="imagebot_11">image/svg+xml</metadata>
+ <g id="imagebot_2" label="Layer 1">
+  <path label="Layer 1" fill="#4d4d4d" fill-rule="evenodd" stroke="#000000" stroke-width="1.83323px" id="imagebot_10" d="M 136.713 490.216 L 153.397 451.12 L 153.243 394.694 L 182.617 383.444 L 96.274 325.068 L 94.809 274.62 L 62.079 272.6 L 64.149 343.822 L 99.138 372.505 L 93.935 397.901 L 53.209 427.3 L 44.159 473.599 L 96.565 488.411 L 99.683 493.518 L 105.89 604.909 L 134.484 603.83 L 136.713 490.216 Z"/>
+  <path label="Layer 1" fill="#4d4d4d" fill-rule="evenodd" stroke="#000000" stroke-width="1.83323px" id="imagebot_9" d="M 245.407 602.341 L 235.695 472.49 L 233.651 453.244 L 206.9 452.536 L 202.786 362.069 L 116.832 317.046 L 114.27 279.993 L 286.302 272.026 L 284.092 349.311 L 264.052 375.138 L 315.172 447.904 L 315.905 473.13 L 277.499 480.185 L 276.524 599.951 L 245.407 602.341 Z"/>
+  <path label="Layer 1" opacity="0.78968" fill="#ff0000" stroke="#ffffff" stroke-width="1.83323px" id="imagebot_8" d="M 339.146 504.021 C 339.146 504.021 246.727 546.8 2.26801 515.292 C -1.131 500.542 0.298004 449.904 0.298004 449.904 L 22.346 442.083 C 22.346 442.083 19.643 137.922 23.644 112.264 C 20.011 79.4045 84.266 1.3619 155.52 0.0263062 C 250.484 -1.7538 297.981 87.4085 296.313 92.4625 C 307.206 120.911 318.552 437.138 318.552 437.138 L 337.594 442.349 L 339.146 504.021 L 339.146 504.021 Z"/>
+  <path label="Layer 1" fill="url(#imagebot_7)" d="M 337.028 502.852 C 337.028 502.852 246.334 545.265 6.39099 513.93 C 3.05099 499.294 4.438 449.06 4.438 449.06 L 26.076 441.307 C 26.076 441.307 23.328 139.555 27.248 114.103 C 23.672 81.5015 86.713 4.0974 156.648 2.7943 C 249.852 1.0576 296.497 89.5275 294.862 94.5415 C 305.562 122.769 316.796 436.492 316.796 436.492 L 335.486 441.669 L 337.028 502.852 L 337.028 502.852 Z" id="imagebot_6"/>
+  <path label="Layer 1" opacity="0.59524" fill="#cccccc" fill-opacity="0.62241" fill-rule="evenodd" stroke="#cccccc" stroke-width="1.83323px" stroke-linecap="round" stroke-linejoin="round" id="imagebot_5" d="M 20.381 447.294 C 20.381 447.294 14.307 448.13 11.533 449.109 L 2.69901 452.221 C 2.69901 452.221 168.136 476.549 337.994 444.883 L 335.324 443.984 C 332.267 442.953 325.353 441.263 323.228 440.536 L 20.381 447.294 L 20.381 447.294 Z"/>
+  <path label="Layer 1" opacity="0.59524" fill="url(#imagebot_4)" transform="matrix(3.5817494,-0.10406199,0.116889,4.023247,-2107.4864,-1419.9074)" d="M771.51685,446.93576A95.54665,73.22266 0 1 1 580.42352,446.93576A95.54665,73.22266 0 1 1 771.51685,446.93576z" id="imagebot_3"/>
+  <title>Layer 1</title>
+ </g>
+</svg>

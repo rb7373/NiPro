@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PruebasFichas</class>
+ <widget class="QFrame" name="PruebasFichas">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1000</width>
+    <height>700</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Frame</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:black;</string>
+  </property>
+  <property name="frameShape">
+   <enum>QFrame::StyledPanel</enum>
+  </property>
+  <property name="frameShadow">
+   <enum>QFrame::Raised</enum>
+  </property>
+  <widget class="QLabel" name="labelWebcamIcon">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>80</y>
+     <width>128</width>
+     <height>128</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>128</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba( 255, 255, 255, 0% );</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="recursos.qrc">:/images/icons/set_0/webcam_1_128x128.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonCerrar">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>580</y>
+     <width>64</width>
+     <height>64</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="focusPolicy">
+    <enum>Qt::NoFocus</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba( 255, 255, 255, 0% );</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="recursos.qrc">
+     <normaloff>:/images/icons/set_0/uncheck_1_64x64.png</normaloff>:/images/icons/set_0/uncheck_1_64x64.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>64</width>
+     <height>64</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelFondo">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>24</y>
+     <width>970</width>
+     <height>632</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="recursos.qrc">:/images/marcos/marco_gris_1.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QScrollArea" name="scrollArea">
+   <property name="geometry">
+    <rect>
+     <x>75</x>
+     <y>280</y>
+     <width>170</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(0,95,114,255);
+border-radius: 10px;
+border-style: outset;
+border-width: 1px;
+border-color:rgb(0,95,114,255);
+</string>
+   </property>
+   <property name="widgetResizable">
+    <bool>true</bool>
+   </property>
+   <widget class="QWidget" name="scrollAreaWidgetContents_2">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>168</width>
+      <height>148</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QSlider" name="horizontalSliderDistanceThreshold">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>602</y>
+     <width>160</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="value">
+    <number>38</number>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QSlider" name="horizontalSliderErodeNumber">
+   <property name="geometry">
+    <rect>
+     <x>650</x>
+     <y>602</y>
+     <width>160</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="value">
+    <number>1</number>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonDistanceThreshold">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>570</y>
+     <width>98</width>
+     <height>94</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="focusPolicy">
+    <enum>Qt::NoFocus</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba( 255, 255, 255, 0% );</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="recursos.qrc">
+     <normaloff>:/images/icons/set_0/configurar_color_3_128x128.png</normaloff>:/images/icons/set_0/configurar_color_3_128x128.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>83</width>
+     <height>83</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonErodeNumber">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>570</y>
+     <width>85</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="focusPolicy">
+    <enum>Qt::NoFocus</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba( 255, 255, 255, 0% );</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="recursos.qrc">
+     <normaloff>:/images/icons/set_0/configurar_color_2.png</normaloff>:/images/icons/set_0/configurar_color_2.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonPiezaActual">
+   <property name="geometry">
+    <rect>
+     <x>850</x>
+     <y>580</y>
+     <width>98</width>
+     <height>94</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="focusPolicy">
+    <enum>Qt::NoFocus</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba( 255, 255, 255, 0% );</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="recursos.qrc">
+     <normaloff>:/images/icons/set_0/configurar_color_3_128x128.png</normaloff>:/images/icons/set_0/configurar_color_3_128x128.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>83</width>
+     <height>83</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <zorder>labelFondo</zorder>
+  <zorder>labelWebcamIcon</zorder>
+  <zorder>pushButtonCerrar</zorder>
+  <zorder>scrollArea</zorder>
+  <zorder>horizontalSliderDistanceThreshold</zorder>
+  <zorder>horizontalSliderErodeNumber</zorder>
+  <zorder>pushButtonDistanceThreshold</zorder>
+  <zorder>pushButtonErodeNumber</zorder>
+  <zorder>pushButtonPiezaActual</zorder>
+ </widget>
+ <resources>
+  <include location="recursos.qrc"/>
+ </resources>
+ <connections/>
+</ui>

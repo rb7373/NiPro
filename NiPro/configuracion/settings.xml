@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NiPro>
+  <piezas>
+    <pieza descripcion="" tipo="" erodeNumberOfIterations="1" colorDistanceThreshold="30" />
+  </piezas>
+</NiPro>

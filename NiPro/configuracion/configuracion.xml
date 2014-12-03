@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <configuracion>
+    <images>
+      <backgrounds>
+        <grupos>
+          <grupo_1/>
+          <grupo_2/>
+        </grupos>
+      </backgrounds>
+      <icons>
+        <grupos>
+          <grupo_1/>
+          <grupo_2/>
+        </grupos>
+      </icons>
+    </images>
+  </configuracion>
+</root>

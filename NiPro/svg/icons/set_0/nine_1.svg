@@ -1,0 +1,32 @@
+<svg width="665" height="1043" xmlns="http://www.w3.org/2000/svg" xmlns:undefined="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <filter id="imagebot_18" x="-0.46415" width="1.9283" y="-0.46415" height="1.9283" color-interpolation-filters="sRGB">
+   <feGaussianBlur  stdDeviation="3.02808" id="imagebot_23"/>
+  </filter>
+  <filter id="imagebot_6" x="-0.11381" width="1.22761" y="-0.04841" height="1.09682" color-interpolation-filters="sRGB">
+   <feGaussianBlur  stdDeviation="2.27636" id="imagebot_22"/>
+  </filter>
+ </defs>
+ <metadata id="imagebot_21">image/svg+xml</metadata>
+ <g id="imagebot_2" label="Layer 1">
+  <g label="Layer 1" transform="translate(-35.2574 -10.3129) matrix(5.02716 0 0 5.02716 -2171.03 -2765.49)" id="imagebot_3">
+   <path fill="#d5f6ff" stroke="#666666" stroke-width="3" stroke-miterlimit="4" stroke-dashoffset="0" id="imagebot_20" d="M551.42859,599.86304C551.42804,613.86737 538.79565,625.21979 523.21338,625.21936C507.63104,625.21887 494.99951,613.86572 495.00003,599.86133C495.00055,585.85699 507.63293,574.50458 523.21527,574.50507C538.79755,574.50549 551.42914,585.85864 551.42859,599.86304"/>
+   <g id="imagebot_4" transform="matrix(0.9023628,0,0,0.9023628,71.687847,73.066759)">
+    <path fill="#00aad4" fill-rule="evenodd" stroke="#006680" stroke-width="3" stroke-miterlimit="4" id="imagebot_19" d="M489.71875,531.15625C476.52905,531.16992 463.06421,535.23706 446.84375,544.5625C406.91647,567.51746 419.92798,614.70087 443.3125,642.90625C466.69702,671.11163 516.84375,640.28125 516.84375,640.28125L486.4375,759.90625L542.90625,760.875L553.4375,553.5C527.6792,539.80524 508.996,531.13629 489.71875,531.15625zM500.03125,559.40625C534.37646,567.48749 527.28748,594.76251 511.125,602.84375C494.96255,610.92499 474.78125,603.85925 474.78125,583.65625C474.78125,563.45319 500.03125,559.40625 500.03125,559.40625z"/>
+    <path fill="#55ddff" filter="url(#imagebot_18)" d="M495.47983,619.25952C495.47968,623.58319 491.97455,627.08807 487.65088,627.08795C483.32721,627.08783 479.82233,623.58264 479.82245,619.25897C479.8226,614.9353 483.32773,611.43042 487.6514,611.43054C491.97507,611.43073 495.47998,614.93585 495.47983,619.25952" id="imagebot_17"/>
+    <path fill="none" stroke="#006680" stroke-width="3" stroke-miterlimit="4" id="imagebot_16" d="M452.54834,651.3316C452.54834,651.3316 477.80215,649.31128 486.89352,638.19965C495.98489,627.08795 487.90369,617.99658 487.90369,617.99658"/>
+    <path fill="#006680" d="M 507.602 571.025 C 507.602 575.488 503.983 579.106 499.52 579.106 C 495.057 579.106 491.439 575.487 491.439 571.024 C 491.439 566.561 495.058 562.943 499.521 562.943 C 503.984 562.943 507.602 566.562 507.602 571.025" id="imagebot_15"/>
+    <path fill="#004455" d="M503.56104,570.26703C503.56097,572.35913 501.86493,574.05505 499.77283,574.05499C497.68076,574.05493 495.98483,572.35889 495.98489,570.26678C495.98495,568.17468 497.681,566.47876 499.7731,566.47882C501.8652,566.47888 503.5611,568.17493 503.56104,570.26703" id="imagebot_14"/>
+    <path fill="none" stroke="#0088aa" stroke-width="2" stroke-miterlimit="4" id="imagebot_13" d="M423.57144,573.07648L452.14288,580.21936"/>
+    <path fill="none" stroke="#0088aa" stroke-width="2" stroke-miterlimit="4" id="imagebot_12" d="M429.28571,561.64789L449.28571,566.64789"/>
+    <path fill="none" stroke="#0088aa" stroke-width="2" stroke-miterlimit="4" id="imagebot_11" d="M438.57144,548.07648L458.57144,558.79077"/>
+    <path fill="none" stroke="#0088aa" stroke-width="2" stroke-miterlimit="4" id="imagebot_10" d="M452.85715,540.93359L465,552.36218"/>
+    <path fill="none" stroke="#0088aa" stroke-width="2" stroke-miterlimit="4" id="imagebot_9" d="M465,534.50507L478.57144,548.79077"/>
+    <path fill="none" stroke="#0088aa" stroke-width="2" stroke-miterlimit="4" id="imagebot_8" d="M483.57144,530.93359L486.42859,544.505"/>
+    <path fill="none" stroke="#0088aa" stroke-width="2" stroke-miterlimit="4" id="imagebot_7" d="M496.42856,531.64789L495,543.07648"/>
+    <path fill="#aaeeff" fill-rule="evenodd" filter="url(#imagebot_6)" id="imagebot_5" d="M544.28571,643.07648L539.28571,755.93359L496.42856,755.21936C496.42856,755.21936 529.28571,755.93359 532.85712,747.36218C536.42859,738.79077 545.71429,643.79077 544.28571,643.07648z"/>
+   </g>
+  </g>
+  <title>Layer 1</title>
+ </g>
+</svg>

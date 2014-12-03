@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\constantes.o
+./release\obstacleslist.o
+./release\mapwidget.o
+./release\piezalistwidgetitem.o
+./release\moc_mainwindow.o
+./release\moc_obstacleslist.o
+./release\moc_mapwidget.o
+./release\moc_piezalistwidgetitem.o
+./release\qrc_Recursos.o
+);

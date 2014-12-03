@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/fondoGeneral.png</file>
+        <file>recursos/pieza0.png</file>
+        <file>recursos/pieza1.png</file>
+        <file>recursos/pieza2.png</file>
+        <file>recursos/pieza3.png</file>
+        <file>recursos/pieza4.png</file>
+        <file>recursos/pieza5.png</file>
+        <file>recursos/pieza7.png</file>
+        <file>recursos/pieza8.png</file>
+        <file>recursos/pieza9.png</file>
+        <file>recursos/pieza10.png</file>
+        <file>recursos/pieza11.png</file>
+        <file>recursos/pieza12.png</file>
+        <file>recursos/pieza13.png</file>
+        <file>recursos/pieza14.png</file>
+        <file>recursos/pieza15.png</file>
+        <file>recursos/pieza16.png</file>
+        <file>recursos/pieza17.png</file>
+        <file>recursos/pieza18.png</file>
+        <file>recursos/pieza19.png</file>
+        <file>recursos/pieza20.png</file>
+        <file>recursos/pieza21.png</file>
+        <file>recursos/pieza22.png</file>
+        <file>recursos/pieza23.png</file>
+        <file>recursos/pieza24.png</file>
+        <file>recursos/pieza25.png</file>
+        <file>recursos/pieza26.png</file>
+        <file>recursos/pieza27.png</file>
+        <file>recursos/pieza28.png</file>
+        <file>recursos/pieza6.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,85 @@
+<svg width="441" height="251" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.5" y1="0.5" x2="1.00001" x1="0.00001" id="imagebot_7">
+   <stop stop-color="#F8130D" offset="0"/>
+   <stop stop-color="#F74431" offset="0.1899"/>
+   <stop stop-color="#F79680" offset="0.5088"/>
+   <stop stop-color="#F8130D" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.5" y1="0.5" x2="1.00001" x1="0" id="imagebot_6">
+   <stop stop-color="#DBDB0C" offset="0"/>
+   <stop stop-color="#E8E94C" offset="0.2315"/>
+   <stop stop-color="#F6F89F" offset="0.5088"/>
+   <stop stop-color="#DBDB0C" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.50001" y1="0.50001" x2="1" x1="0.00001" id="imagebot_5">
+   <stop stop-color="#F3A122" offset="0"/>
+   <stop stop-color="#F3A82F" offset="0.0788"/>
+   <stop stop-color="#F7D17F" offset="0.5088"/>
+   <stop stop-color="#F3A122" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.5" y1="0.5" x2="0.99997" x1="-0.00001" id="imagebot_4">
+   <stop stop-color="#147A33" offset="0"/>
+   <stop stop-color="#187F32" offset="0.0375"/>
+   <stop stop-color="#6CBB22" offset="0.5088"/>
+   <stop stop-color="#147A33" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.5" y1="0.5" x2="0.99999" x1="0.00001" id="imagebot_3">
+   <stop stop-color="#1987A6" offset="0"/>
+   <stop stop-color="#29A7C3" offset="0.5088"/>
+   <stop stop-color="#1987A6" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.5" y1="0.5" x2="0.99997" x1="-0.00003" id="imagebot_2">
+   <stop stop-color="#C71781" offset="0"/>
+   <stop stop-color="#CD2B8B" offset="0.1024"/>
+   <stop stop-color="#E87DB6" offset="0.5088"/>
+   <stop stop-color="#C71781" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>Rainbow of Light Emitting DiodesRainbow of Light Emitting DiodessciencediodeelectronicOpen Clip Art ProjectGerald G.Public Domain2005/05/26image/svg+xmlen</metadata>
+ <g display="inline" id="imagebot_1">
+  <path id="imagebot_8" fill-rule="evenodd" fill="#808080" d="M 17.244 101.556 L 23.148 101.556 L 23.148 217.152 L 17.244 217.152 L 17.244 101.556 Z" clip-rule="evenodd"/>
+  <path id="imagebot_9" fill-rule="evenodd" fill="#808080" d="M 32.904 101.196 L 38.772 101.196 L 38.772 251.064 L 32.904 251.064 L 32.904 101.196 Z" clip-rule="evenodd"/>
+  <path id="imagebot_10" fill-rule="evenodd" fill="#FB0F0C" d="M 7.812 86.94 L 7.812 24.48 C 7.812 24.408 7.812 24.336 7.812 24.228 C 7.812 11.808 17.892 1.728 30.312 1.728 C 42.696 1.728 52.704 11.592 52.848 23.976 L 52.812 86.94 L 7.812 86.94 Z" clip-rule="evenodd"/>
+  <path id="imagebot_11" fill-rule="evenodd" fill="url(#imagebot_7)" d="M 10.548 83.592 L 10.548 28.8 C 10.548 28.728 10.548 28.656 10.548 28.584 C 10.548 17.676 19.404 8.82 30.312 8.82 C 41.184 8.82 49.968 17.496 50.076 28.332 L 50.076 83.592 L 10.548 83.592 Z" clip-rule="evenodd"/>
+  <path id="imagebot_12" fill-rule="evenodd" fill="#FB0F0C" d="M 0 86.4 L 60.624 86.4 L 60.624 102.024 L 0 102.024 L 0 86.4 Z" clip-rule="evenodd"/>
+  <path id="imagebot_13" fill-rule="evenodd" fill="#DB0000" d="M 42.084 83.7 L 42.084 53.064 L 17.28 53.064 L 28.764 68.076 L 38.124 68.076 L 38.124 83.7 L 42.084 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_14" fill-rule="evenodd" fill="#DB0000" d="M 16.884 83.7 L 16.884 57.456 L 26.244 68.904 L 26.244 83.7 L 16.884 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_15" fill-rule="evenodd" fill="#808080" d="M 166.464 101.556 L 172.332 101.556 L 172.332 217.152 L 166.464 217.152 L 166.464 101.556 Z" clip-rule="evenodd"/>
+  <path id="imagebot_16" fill-rule="evenodd" fill="#808080" d="M 182.088 101.196 L 187.992 101.196 L 187.992 251.064 L 182.088 251.064 L 182.088 101.196 Z" clip-rule="evenodd"/>
+  <path id="imagebot_17" fill-rule="evenodd" fill="#DBDB00" d="M 156.996 86.94 L 156.996 24.48 C 156.996 24.408 156.996 24.336 156.996 24.228 C 156.996 11.808 167.076 1.728 179.532 1.728 C 191.88 1.728 201.888 11.592 202.032 23.976 L 201.996 86.94 L 156.996 86.94 Z" clip-rule="evenodd"/>
+  <path id="imagebot_18" fill-rule="evenodd" fill="url(#imagebot_6)" d="M 159.768 83.592 L 159.768 28.8 C 159.768 28.728 159.768 28.656 159.768 28.584 C 159.768 17.676 168.588 8.82 179.532 8.82 C 190.368 8.82 199.152 17.496 199.296 28.332 L 199.26 83.592 L 159.768 83.592 Z" clip-rule="evenodd"/>
+  <path id="imagebot_19" fill-rule="evenodd" fill="#DBDB00" d="M 149.22 86.4 L 209.844 86.4 L 209.844 102.024 L 149.22 102.024 L 149.22 86.4 Z" clip-rule="evenodd"/>
+  <path id="imagebot_20" fill-rule="evenodd" fill="#B5D11B" d="M 191.304 83.7 L 191.304 53.064 L 166.5 53.064 L 177.948 68.076 L 187.344 68.076 L 187.344 83.7 L 191.304 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_21" fill-rule="evenodd" fill="#B5D11B" d="M 166.068 83.7 L 166.068 57.456 L 175.464 68.904 L 175.464 83.7 L 166.068 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_22" fill-rule="evenodd" fill="#808080" d="M 90.936 99.828 L 96.84 99.828 L 96.84 215.424 L 90.936 215.424 L 90.936 99.828 Z" clip-rule="evenodd"/>
+  <path id="imagebot_23" fill-rule="evenodd" fill="#808080" d="M 106.596 99.468 L 112.464 99.468 L 112.464 249.372 L 106.596 249.372 L 106.596 99.468 Z" clip-rule="evenodd"/>
+  <path id="imagebot_24" fill-rule="evenodd" fill="#F7A122" d="M 81.504 85.212 L 81.504 22.788 C 81.504 22.716 81.504 22.644 81.504 22.536 C 81.504 10.116 91.584 0 104.004 0 C 116.388 0 126.36 9.9 126.54 22.248 L 126.504 85.212 L 81.504 85.212 Z" clip-rule="evenodd"/>
+  <path id="imagebot_25" fill-rule="evenodd" fill="url(#imagebot_5)" d="M 84.24 81.864 L 84.24 27.072 C 84.24 27 84.24 26.928 84.24 26.856 C 84.24 15.948 93.096 7.092 104.004 7.092 C 114.876 7.092 123.624 15.768 123.768 26.64 L 123.768 81.864 L 84.24 81.864 Z" clip-rule="evenodd"/>
+  <path id="imagebot_26" fill-rule="evenodd" fill="#F7A122" d="M 73.692 84.672 L 134.316 84.672 L 134.316 100.296 L 73.692 100.296 L 73.692 84.672 Z" clip-rule="evenodd"/>
+  <path id="imagebot_27" fill-rule="evenodd" fill="#DA8A1A" d="M 115.776 81.972 L 115.776 51.372 L 90.972 51.372 L 102.456 66.348 L 111.816 66.348 L 111.816 81.972 L 115.776 81.972 Z" clip-rule="evenodd"/>
+  <path id="imagebot_28" fill-rule="evenodd" fill="#DA8A1A" d="M 90.576 81.972 L 90.576 55.728 L 99.936 67.176 L 99.936 81.972 L 90.576 81.972 Z" clip-rule="evenodd"/>
+  <path id="imagebot_29" fill-rule="evenodd" fill="#808080" d="M 243.252 101.556 L 249.12 101.556 L 249.12 217.152 L 243.252 217.152 L 243.252 101.556 Z" clip-rule="evenodd"/>
+  <path id="imagebot_30" fill-rule="evenodd" fill="#808080" d="M 258.876 101.196 L 264.78 101.196 L 264.78 251.064 L 258.876 251.064 L 258.876 101.196 Z" clip-rule="evenodd"/>
+  <path id="imagebot_31" fill-rule="evenodd" fill="#007931" d="M 233.784 86.94 L 233.784 24.48 C 233.784 24.408 233.784 24.336 233.784 24.228 C 233.784 11.808 243.864 1.728 256.32 1.728 C 268.668 1.728 278.675 11.592 278.82 23.976 L 278.784 86.94 L 233.784 86.94 Z" clip-rule="evenodd"/>
+  <path id="imagebot_32" fill-rule="evenodd" fill="url(#imagebot_4)" d="M 236.557 83.592 L 236.557 28.8 C 236.557 28.728 236.557 28.656 236.557 28.584 C 236.557 17.676 245.376 8.82 256.321 8.82 C 267.157 8.82 275.941 17.496 276.085 28.332 L 276.049 83.592 L 236.557 83.592 Z" clip-rule="evenodd"/>
+  <path id="imagebot_33" fill-rule="evenodd" fill="#007931" d="M 226.008 86.4 L 286.632 86.4 L 286.632 102.024 L 226.008 102.024 L 226.008 86.4 Z" clip-rule="evenodd"/>
+  <path id="imagebot_34" fill-rule="evenodd" fill="#005C25" d="M 268.092 83.7 L 268.092 53.064 L 243.288 53.064 L 254.736 68.076 L 264.132 68.076 L 264.132 83.7 L 268.092 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_35" fill-rule="evenodd" fill="#005C25" d="M 242.856 83.7 L 242.856 57.456 L 252.252 68.904 L 252.252 83.7 L 242.856 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_36" fill-rule="evenodd" fill="#808080" d="M 321.48 101.556 L 327.383 101.556 L 327.383 217.152 L 321.48 217.152 L 321.48 101.556 Z" clip-rule="evenodd"/>
+  <path id="imagebot_37" fill-rule="evenodd" fill="#808080" d="M 337.141 101.196 L 343.008 101.196 L 343.008 251.064 L 337.141 251.064 L 337.141 101.196 Z" clip-rule="evenodd"/>
+  <path id="imagebot_38" fill-rule="evenodd" fill="#0086A6" d="M 312.048 86.94 L 312.048 24.48 C 312.048 24.408 312.048 24.336 312.048 24.228 C 312.048 11.808 322.128 1.728 334.548 1.728 C 346.933 1.728 356.941 11.592 357.084 23.976 L 357.048 86.94 L 312.048 86.94 Z" clip-rule="evenodd"/>
+  <path id="imagebot_39" fill-rule="evenodd" fill="url(#imagebot_3)" d="M 314.784 83.592 L 314.784 28.8 C 314.784 28.728 314.784 28.656 314.784 28.584 C 314.784 17.676 323.64 8.82 334.548 8.82 C 345.42 8.82 354.204 17.496 354.313 28.332 L 354.313 83.592 L 314.784 83.592 Z" clip-rule="evenodd"/>
+  <path id="imagebot_40" fill-rule="evenodd" fill="#0086A6" d="M 304.236 86.4 L 364.86 86.4 L 364.86 102.024 L 304.236 102.024 L 304.236 86.4 Z" clip-rule="evenodd"/>
+  <path id="imagebot_41" fill-rule="evenodd" fill="#00738F" d="M 346.32 83.7 L 346.32 53.064 L 321.551 53.064 L 333 68.076 L 342.36 68.076 L 342.36 83.7 L 346.32 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_42" fill-rule="evenodd" fill="#00738F" d="M 321.12 83.7 L 321.12 57.456 L 330.48 68.904 L 330.48 83.7 L 321.12 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_43" fill-rule="evenodd" fill="#808080" d="M 397.584 101.556 L 403.452 101.556 L 403.452 217.152 L 397.584 217.152 L 397.584 101.556 Z" clip-rule="evenodd"/>
+  <path id="imagebot_44" fill-rule="evenodd" fill="#808080" d="M 413.244 101.196 L 419.112 101.196 L 419.112 251.064 L 413.244 251.064 L 413.244 101.196 Z" clip-rule="evenodd"/>
+  <path id="imagebot_45" fill-rule="evenodd" fill="#C61083" d="M 388.152 86.94 L 388.152 24.48 C 388.152 24.408 388.152 24.336 388.152 24.228 C 388.152 11.808 398.232 1.728 410.652 1.728 C 423.036 1.728 433.007 11.592 433.188 23.976 L 433.152 86.94 L 388.152 86.94 Z" clip-rule="evenodd"/>
+  <path id="imagebot_46" fill-rule="evenodd" fill="url(#imagebot_2)" d="M 390.889 83.592 L 390.889 28.8 C 390.889 28.728 390.889 28.656 390.889 28.584 C 390.889 17.676 399.744 8.82 410.653 8.82 C 421.525 8.82 430.273 17.496 430.417 28.332 L 430.381 83.592 L 390.889 83.592 Z" clip-rule="evenodd"/>
+  <path id="imagebot_47" fill-rule="evenodd" fill="#C61083" d="M 380.34 86.4 L 440.964 86.4 L 440.964 102.024 L 380.34 102.024 L 380.34 86.4 Z" clip-rule="evenodd"/>
+  <path id="imagebot_48" fill-rule="evenodd" fill="#9B004F" d="M 422.424 83.7 L 422.424 53.064 L 397.62 53.064 L 409.104 68.076 L 418.463 68.076 L 418.463 83.7 L 422.424 83.7 Z" clip-rule="evenodd"/>
+  <path id="imagebot_49" fill-rule="evenodd" fill="#9B004F" d="M 397.225 83.7 L 397.225 57.456 L 406.584 68.904 L 406.584 83.7 L 397.225 83.7 Z" clip-rule="evenodd"/>
+  <title>imagebot_1</title>
+ </g>
+</svg>
